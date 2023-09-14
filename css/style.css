@@ -1,0 +1,69 @@
+@import url(../css/reset.css);
+.container{
+    margin: 30px auto;
+    width: 1200px;
+
+}
+
+.container div{
+    outline: 2px solid black;
+    text-align: justify;
+}
+
+.first_block{
+    width: 400px;
+    height: 400px;
+    background: violet;
+    font-size: 30px;
+    float: left;
+}
+
+.block{
+    width: 800px;
+    height: 200px;
+    font-size: 30px;
+    background: blue;
+    outline: 2px solid black;
+    float: left;
+}
+.block1{
+    width: 400px;
+    height: 133.333px;
+    background: blue;
+    outline: 2px solid black;
+    font-size: 30px;
+    overflow: hidden;
+}
+.third_block{
+    outline: 2px solid black;
+    font-size: 30px;
+    overflow: hidden;
+    background: lightgreen;
+}
+.third{
+    width: 400px;
+    height: 400px;
+    float: left;
+}
+.third1{
+    width: 800px;
+    height: 200px;
+    outline: 2px solid black;
+    float: left;
+}
+.third2{
+    width: 400px;
+    height: 200px;
+    outline: 2px solid black;
+    float: left;
+}
+.third3{
+    width: 400px;
+    height: 100px;
+    outline: 2px solid black;
+    float: left;
+    overflow: hidden;
+}
+
+
+
